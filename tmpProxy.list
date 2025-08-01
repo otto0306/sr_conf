@@ -2,6 +2,11 @@
 DOMAIN,apple-bing.sbs
 DOMAIN,mojie.app
 DOMAIN-SUFFIX,nssurge.com
+<<<<<<< Updated upstream
 DOMAIN-KEYWORD,amytele
 DOMAIN-KEYWORD,cloudflare
+=======
+DOMAIN-SUFFIX,hdhive.com
+DOMAIN-SUFFIX,hdhive.online
+>>>>>>> Stashed changes
 
